@@ -28,11 +28,15 @@
 | **Cloud** | AWS (S3, DynamoDB, EC2, Fargate, CloudWatch) |
 | **Process** | JIRA, Zephyr, BugZilla, SDLC/STLC, Agile, Scrum, SAFe |
 
-## 📌 Featured project
+## 📌 Featured projects
 
 ### [Test Automation Framework: Java 21, Selenium, TestNG, LambdaTest](https://github.com/SarkarPranab/Test-Automation-Framework-Java-21-TestNG-LambdaTest)
 
 Selenium + TestNG Page Object Model framework with parallel runs on the LambdaTest cloud, GitHub Actions CI, and test reports published to GitHub Pages.
+
+### [Playwright Automation Framework: Java 21, Playwright, TestNG, Allure](https://github.com/SarkarPranab/Playwright-Allure-CI-CD-Framework)
+
+Playwright for Java + TestNG Page Object Model framework with Chromium and Firefox runs, Allure reporting, and GitHub Actions CI on every push.
 
 ## 📫 Let's connect
 
